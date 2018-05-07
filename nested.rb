@@ -7,7 +7,6 @@ def hopper
           :languages => ["COBOL", "FORTRAN"]
         },
 
-				binding.pry
         :alan_kay => {
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
